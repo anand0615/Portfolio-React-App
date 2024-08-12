@@ -48,7 +48,7 @@ const Footer = () => {
           <p>
             This is me, Anand Kumar Singh, a final-year student, passionate
             about learning and eager to contribute to the world with my
-            knowledge and skills
+            knowledge and skills.
           </p>
           <div className="social">
             <a href="https://github.com/anand0615" target="_blank">

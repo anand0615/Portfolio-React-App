@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 const PricingCard = () => {
   return (
     <div className="pricing">
-      <div className="card-container">
+      {/* <div className="card-container">
         <div className="card">
           <h3>- Basic -</h3>
           <span className="bar"></span>
@@ -46,7 +46,7 @@ const PricingCard = () => {
             PURCHASE NOW
           </Link>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
