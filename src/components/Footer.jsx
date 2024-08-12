@@ -57,13 +57,15 @@ const Footer = () => {
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-            <a href="https://www.linkedin.com/in/anand-kumar-singh-35191b229" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/anand-kumar-singh-35191b229"
+              target="_blank"
+            >
               <FaLinkedin
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
               />
             </a>
-           
           </div>
         </div>
       </div>
