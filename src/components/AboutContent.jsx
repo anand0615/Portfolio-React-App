@@ -3,8 +3,8 @@ import "./AboutContentStyles.css"
 import React from 'react'
 
 import {Link} from "react-router-dom";
-import React1 from "../assets/project1.jpg"
-import React2 from "../assets/project1.jpg"
+import React1 from "../assets/ReactProject2.jpg"
+import React2 from "../assets/ReactProject1.jpg"
 export const AboutContent = () => {
   return (
     <div className="about">
