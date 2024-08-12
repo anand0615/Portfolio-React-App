@@ -5,24 +5,20 @@ import pro3 from "../assets/project1.jpg"
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "Ecommerce Website Design",
-        text: "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded,tangible and self-affirming sense of Wow I really can do this for over 100,000 online entrepreneurs. Best-selling marketing courses",
-        view: "https://www.youtube.com/watch?v=P8YuWEkTeuE"
+        title: "Weather App",
+        text: "A weather app that utilizes an API to fetch simple weather data provides users with real-time information about current weather conditions. The app connects to a weather API, retrieves data like temperature, humidity, and wind speed, and displays it in an easy-to-read format.",
+        view: "https://weather-app-ashy-three-54.vercel.app/",
+        source: "https://github.com/anand0615/Weather-App",
     },
 
     {
         imgsrc: pro2,
-        title: "LMS/Course Website Design",
-        text: "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded,tangible and self-affirming sense of Wow I really can do this for over 100,000 online entrepreneurs. Best-selling marketing courses",
-        view: "https://www.youtube.com/watch?v=P8YuWEkTeuE"
+        title: "Simon Game",
+        text: "The Simon game is a classic electronic memory game where players must replicate a sequence of colors. The game starts with a single color, and with each successful round, the sequence becomes longer and more challenging. Players must memorize and reproduce the exact order to continue playing. The game tests memory, concentration, and quick thinking, offering a fun and engaging way to challenge your mind.",
+        view: "https://simon-game-iota-ivory.vercel.app/",
+        source: "https://github.com/anand0615/Simon-Game",
     },
 
-    {
-        imgsrc: pro3,
-        title: "Rymo Ecommerce Design",
-        text: "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded,tangible and self-affirming sense of Wow I really can do this for over 100,000 online entrepreneurs. Best-selling marketing courses",
-        view: "https://www.youtube.com/watch?v=P8YuWEkTeuE"
-    },
 ];
 
 export default ProjectCardData

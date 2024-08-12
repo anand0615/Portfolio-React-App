@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
-              <p>123 Housing Society</p>
+              <p>Kolkata,</p>
               <p>India</p>
             </div>
           </div>
@@ -51,7 +51,6 @@ const Footer = () => {
             knowledge and skills
           </p>
           <div className="social">
-            {/* <FaFacebook size={30} style={{ color: "#fff",marginRight: "1rem"}}/> */}
             <a href="https://github.com/anand0615" target="_blank">
               <FaGithub
                 size={30}
